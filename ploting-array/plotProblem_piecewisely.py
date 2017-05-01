@@ -27,7 +27,7 @@ def Hv(x):
 
 y = Hv(x)
 
-#ploting isues between negative and zero
+#ploting-array isues between negative and zero
 
 #The hat function
 def Nv(x):
